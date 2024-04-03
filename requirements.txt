@@ -22,4 +22,6 @@ fastapi
 uvicorn
 jinja2
 python-multipart
+lightgbm>=3.3.0
+catboost>=0.26
 -e .
